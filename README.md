@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahmedgamalpro
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning JavaScript & react.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me this my **[linkedin](https://www.linkedin.com/in/ahmed-gamal-ba02b8253/)**
 - and that my **[twitter](https://twitter.com/AhmedGa17675560)**
 
